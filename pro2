@@ -1,0 +1,29 @@
+\documentclass[12pt]{article}
+\usepackage{lipsum}
+
+
+\begin{document}
+
+\begin{abstract}
+\lipsum[1]
+\end{abstract}
+
+\end{document}
+
+
+
+\documentclass[10pt,a4paper]{article}
+\usepackage{ragged2e}
+\usepackage[left=3cm,right=3cm,top=2cm,bottom=2cm]{geometry}
+
+\begin{document}
+
+\begin{center}
+      \LARGE\textbf{Abstract}
+\end{center}
+News has become an important medium for everyone to stay aware and updated with the latest happenings in the world. It is important to note that in recent times with the rise in social media the amount of fake news has surged to dangerous levels. Fake news causes a lot of economic and social problems. It also gets difficult to trace back the source of fake news and hold someone accountable in order to curb it down. It is important to have a mechanism which evicts out fake news and contains only authentic news. With digitization, there has been a drastic increase in the usage of some of the popular social media sites such as Twitter, Facebook, Yahoo, YouTube as a medium of spreading news. There is very little check on the spreading of fake news. Accountability, in terms of how authentic the news is, is very less. Our project aims to create a platform that runs on a blockchain network. News based media will be shared across this network. The origin of data and every user interaction will be recorded and get updated in the decentralized ledger and since it is in the blockchain, 
+
+\justify{\textbf{Keywords:} Fake news, Blockchain network, Accountability, Decentralized ledger}
+
+\end{document}
+
